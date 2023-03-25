@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Move Google Drive to slow tests (#8163)
