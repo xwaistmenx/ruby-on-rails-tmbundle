@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Replace onnx2tf usage from CLI to Python (#8429)
