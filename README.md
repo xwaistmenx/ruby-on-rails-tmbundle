@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
