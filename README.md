@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Fix docs H1 tags (#7182)
