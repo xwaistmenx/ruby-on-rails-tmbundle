@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
