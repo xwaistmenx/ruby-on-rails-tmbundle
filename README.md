@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
