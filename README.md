@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
