@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
