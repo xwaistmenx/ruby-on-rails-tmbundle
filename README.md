@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Add visuals in guides/distance-calculation.md (#7876)
