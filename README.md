@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
