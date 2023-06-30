@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
