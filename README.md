@@ -1,1 +1,1 @@
-example Google Colab
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
