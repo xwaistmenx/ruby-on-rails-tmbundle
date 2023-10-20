@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Add new YOLOv8 OBB model metrics (#7379)
