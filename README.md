@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
