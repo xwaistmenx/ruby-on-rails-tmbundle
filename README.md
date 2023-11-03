@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Add PR Summary step to Ultralytics Actions (#7675)
