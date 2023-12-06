@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
