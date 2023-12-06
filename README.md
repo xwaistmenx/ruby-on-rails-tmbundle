@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+ultralytics 8.0.228 add training time argument (#7054)
