@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
