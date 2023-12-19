@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
