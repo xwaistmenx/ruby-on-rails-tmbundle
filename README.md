@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Expand Model method type hinting (#8279)
