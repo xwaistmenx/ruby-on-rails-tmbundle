@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Update Discord and Contributing Guide URLs (#9270)
