@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Hold failed upload metrics and upload with next upload metrics (#8513)
