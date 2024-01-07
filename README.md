@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Explorer with LanceDB, Actions and Docs updates (#7487)
