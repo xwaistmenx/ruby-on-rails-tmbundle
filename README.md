@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add bgr hyperparameter (#9139)
