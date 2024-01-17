@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Explorer with LanceDB, Actions and Docs updates (#7487)
