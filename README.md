@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add bgr hyperparameter (#9139)
