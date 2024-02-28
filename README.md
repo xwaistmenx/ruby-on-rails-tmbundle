@@ -1,1 +1,1 @@
-add yolov10
+Updating a typo on paddlepaddle.md (#9108)
