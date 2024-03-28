@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Update Docs language dropdown height (#6927)
