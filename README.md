@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
