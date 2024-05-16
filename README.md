@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Update the heatmap module code + docs (#7045)
