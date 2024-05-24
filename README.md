@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
