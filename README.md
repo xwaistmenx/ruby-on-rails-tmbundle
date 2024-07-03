@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Update Colab notebook for YOLOv8.1 (#8660)
