@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+docs: update view-results-in-terminal.md (#66)
