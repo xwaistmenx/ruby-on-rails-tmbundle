@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
