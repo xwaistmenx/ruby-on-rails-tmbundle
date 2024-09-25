@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Compare plt.get_backend() in lowercase (#8409)
