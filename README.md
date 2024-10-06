@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
