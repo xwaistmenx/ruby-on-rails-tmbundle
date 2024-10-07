@@ -1,1 +1,1 @@
-Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
