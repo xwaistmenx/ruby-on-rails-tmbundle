@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add new @Retry() decorator (#7854)
