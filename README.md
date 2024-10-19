@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Fix ONNX GPU inference bug (#6840)
