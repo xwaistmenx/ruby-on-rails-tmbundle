@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Avoid creating -hub dir without processing images (#8334)
